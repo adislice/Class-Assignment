@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Tugas" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/biru</item>
+        <item name="colorPrimaryDark">@color/biruShade</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="elevation">0dp</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
